@@ -6,12 +6,12 @@
 - It provides Comprehensive Insights using Agentic AI functionality called "mr.Advisor bot".
 - No need to waste your time in watching number of product reviews.
   
-- Functionalities:
- • Gather data from various sources
- • Analyze and summarize reviews using 'Gemini 2.0 Flash'
- • Provide personalized recommendations
- • Provide Realtime Tech Updates around the world
- • Chat-bot integration for Tech Advice
- • Track prices
+### Functionalities:
+ - Gather data from various sources
+ - Analyze and summarize reviews using 'Gemini 2.0 Flash'
+ - Provide personalized recommendations
+ - Provide Realtime Tech Updates around the world
+ - Chat-bot integration for Tech Advice
+ - Track Prices and Deals-Sales
 
-- Tech stack : React-Native, expo, Firebase, Firestore, News API, Gemini AI, Gen AI, JavaScript, TypeScript, etc..
+### Tech stack : React-Native, expo, Firebase, Firestore, News API, Gemini AI, Gen AI, JavaScript, TypeScript, etc..
