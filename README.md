@@ -14,4 +14,4 @@
  • Chat-bot integration for Tech Advice
  • Track prices
 
-- Tech stack : React-native, expo, Firebase, Firestore, News API, Gemini AI, Gen AI, JavaScript, TypeScript, etc..
+- Tech stack : React-Native, expo, Firebase, Firestore, News API, Gemini AI, Gen AI, JavaScript, TypeScript, etc..
