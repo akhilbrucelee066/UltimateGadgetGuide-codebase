@@ -18,5 +18,6 @@
 
 
 ## License
-This project is licensed under the LGPL-2.1 License — see the [LICENSE](./LICENSE) file for details.  
-© 2025 Pranay Akhil Jeedimalla (github/akhilbrucelee066) — Attribution required.
+This project is licensed under a custom MIT-based license — free for non-commercial use with attribution.  
+You are not allowed to claim this project, code, or idea (“Ultimate Gadget Guide”) as your own.  
+See [LICENSE](./LICENSE) for full terms.
