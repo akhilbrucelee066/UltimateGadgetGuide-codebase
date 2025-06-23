@@ -15,3 +15,8 @@
  - Track Prices and Deals-Sales
 
 ### Tech stack : React-Native, expo, Firebase, Firestore, News API, Gemini AI, Gen AI, JavaScript, TypeScript, etc..
+
+
+## License
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.  
+© 2025 Pranay Akhil Jeedimalla (github/akhilbrucelee066) — Attribution required.
